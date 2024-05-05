@@ -1,0 +1,263 @@
+Heading
+=======
+
+SubHeading
+----------
+
+  * list item 1
+  * list item 2
+
+  This is a hyperlink to [Google](http://google.com).
+
+  Images are like hyperlinks, but with an exclamation mark in front of them:
+  ![](http://placekitten.com/g/250/250)
+
+  [gimmick:gist](5641564)
+
+The images below float right to this text.
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+![](http://placekitten.com/g/200/300)
+![](http://placekitten.com/g/200/300)
+
+- __man__
+   - __ADB\-SCRCPY__
+     - [ADB AppControl – Debloat and Control Android Device Remotely.md](ADB-SCRCPY/ADB%20AppControl%20%E2%80%93%20Debloat%20and%20Control%20Android%20Device%20Remotely.md)
+     - [ADB Shell Commands List and Detailed Cheat Sheet.md](ADB-SCRCPY/ADB%20Shell%20Commands%20List%20and%20Detailed%20Cheat%20Sheet.md)
+     - [ADB Shell Commands List.md](ADB-SCRCPY/ADB%20Shell%20Commands%20List.md)
+     - [How to Unlock Android Phone via ADB.md](ADB-SCRCPY/How%20to%20Unlock%20Android%20Phone%20via%20ADB.md)
+     - [IRC server + SSL + Services , ho.md](ADB-SCRCPY/IRC%20server%20%2B%20SSL%20%2B%20Services%20%2C%20ho.md)
+     - [Scrcpy Display and control your Android device.html.md](ADB-SCRCPY/Scrcpy%20Display%20and%20control%20your%20Android%20device.html.md)
+     - [Scrcpy now works wirelessly.html.md](ADB-SCRCPY/Scrcpy%20now%20works%20wirelessly.html.md)
+     - [adb\-commands\-cheatsheet.md](ADB-SCRCPY/adb-commands-cheatsheet.md)
+     - [adb\-turn\-off\-play\-protect.md](ADB-SCRCPY/adb-turn-off-play-protect.md)
+     - [android\-notifications\-in\-termux.md](ADB-SCRCPY/android-notifications-in-termux.md)
+     - [display\-script\-output\-on\-widget.md](ADB-SCRCPY/display-script-output-on-widget.md)
+     - [networking \- How can I connect to Android with ADB over TCP \- Stack Overflow.html.md](ADB-SCRCPY/networking%20-%20How%20can%20I%20connect%20to%20Android%20with%20ADB%20over%20TCP%20-%20Stack%20Overflow.html.md)
+     - [scrcpy Now Available In Debian Testing  Sid And Ubuntu 20.04 Focal Fossa \- Linux Uprising Blog.html.md](ADB-SCRCPY/scrcpy%20Now%20Available%20In%20Debian%20Testing%20%20Sid%20And%20Ubuntu%2020.04%20Focal%20Fossa%20-%20Linux%20Uprising%20Blog.html.md)
+     - [scrcpy.md](ADB-SCRCPY/scrcpy.md)
+     - [scrcpy\_FAQ.md](ADB-SCRCPY/scrcpy_FAQ.md)
+     - [scrcpy\_README.md](ADB-SCRCPY/scrcpy_README.md)
+   - __BASH\-SHELL\-ZSH__
+     - [Bash scripting \_cheatsheet.md](BASH-SHELL-ZSH/Bash%20scripting%20_cheatsheet.md)
+     - [Unicode symbols list.md](BASH-SHELL-ZSH/Unicode%20symbols%20list.md)
+     - [bash\_oneliners.md](BASH-SHELL-ZSH/bash_oneliners.md)
+     - [devhints\-bash\-examples.md](BASH-SHELL-ZSH/devhints-bash-examples.md)
+     - [devhints.io\_bash.html.md](BASH-SHELL-ZSH/devhints.io_bash.html.md)
+     - [example2\_bashrc.md](BASH-SHELL-ZSH/example2_bashrc.md)
+     - [minimal\-bash\-safe.html.md](BASH-SHELL-ZSH/minimal-bash-safe.html.md)
+     - [oh\-my\-zsh.md](BASH-SHELL-ZSH/oh-my-zsh.md)
+     - [ok\-bash.md](BASH-SHELL-ZSH/ok-bash.md)
+     - __pure\-bash\-bible__
+       - [README.md](BASH-SHELL-ZSH/pure-bash-bible/README.md)
+     - [safe\-bash\-template.md](BASH-SHELL-ZSH/safe-bash-template.md)
+     - [sockets\-in\-your\-shell.html.md](BASH-SHELL-ZSH/sockets-in-your-shell.html.md)
+     - [zsh\-lovers.html.md](BASH-SHELL-ZSH/zsh-lovers.html.md)
+     - [zsh\-syntax\-highlighting.md](BASH-SHELL-ZSH/zsh-syntax-highlighting.md)
+     - [zsh.html.md](BASH-SHELL-ZSH/zsh.html.md)
+     - [zshtips.html.md](BASH-SHELL-ZSH/zshtips.html.md)
+   - [Cheat.sh Shows Cheat Sheets On The Command Line.md](Cheat.sh%20Shows%20Cheat%20Sheets%20On%20The%20Command%20Line.md)
+   - [DUFS.md](DUFS.md)
+   - [QuickTun \- Qontrol.nl Wiki.md](QuickTun%20-%20Qontrol.nl%20Wiki.md)
+   - [README.md](README.md)
+   - __TERMUX__
+     - [Access Termux via USB.html.md](TERMUX/Access%20Termux%20via%20USB.html.md)
+     - [Pasted image 20230726110302.png](TERMUX/Pasted%20image%2020230726110302.png)
+     - [Pasted image 20230726110521.png](TERMUX/Pasted%20image%2020230726110521.png)
+     - [Pasted image 20230726110859.png](TERMUX/Pasted%20image%2020230726110859.png)
+     - [Pasted image 20230726110932.png](TERMUX/Pasted%20image%2020230726110932.png)
+     - [Pasted image 20230726111009.png](TERMUX/Pasted%20image%2020230726111009.png)
+     - [Pasted image 20230726111030.png](TERMUX/Pasted%20image%2020230726111030.png)
+     - [Pasted image 20230726111034.png](TERMUX/Pasted%20image%2020230726111034.png)
+     - [Run an SSH server on your Android with Termux.md](TERMUX/Run%20an%20SSH%20server%20on%20your%20Android%20with%20Termux.md)
+     - __TermuxSSHDsetup__
+       - [README.md](TERMUX/TermuxSSHDsetup/README.md)
+       - [Screenshot 2017\-04\-29 at 5.17.20 PM.png](TERMUX/TermuxSSHDsetup/Screenshot%202017-04-29%20at%205.17.20%20PM.png)
+       - [Screenshot 2017\-04\-29 at 5.19.48 PM.png](TERMUX/TermuxSSHDsetup/Screenshot%202017-04-29%20at%205.19.48%20PM.png)
+       - [Screenshot 2017\-04\-29 at 5.21.09 PM.png](TERMUX/TermuxSSHDsetup/Screenshot%202017-04-29%20at%205.21.09%20PM.png)
+       - [termuxsshdsetup.sh](TERMUX/TermuxSSHDsetup/termuxsshdsetup.sh)
+     - __awesome\-termux\-hacking__
+       - [README.md](TERMUX/awesome-termux-hacking/README.md)
+       - [code\-of\-conduct.md](TERMUX/awesome-termux-hacking/code-of-conduct.md)
+       - [contributing.md](TERMUX/awesome-termux-hacking/contributing.md)
+       - __media__
+         - [awesome\_termux\_hacking.png](TERMUX/awesome-termux-hacking/media/awesome_termux_hacking.png)
+     - __code\-server\-on\-termux__
+       - [code\-server\-on\-termux.md](TERMUX/code-server-on-termux/code-server-on-termux.md)
+     - [code\-server\-termux.md](TERMUX/code-server-termux.md)
+     - [ssh\-server\-on\-termux.md](TERMUX/ssh-server-on-termux.md)
+     - [termux\-backup.md](TERMUX/termux-backup.md)
+     - [termux\-proot\-hardware\-acceleration.md](TERMUX/termux-proot-hardware-acceleration.md)
+     - __termux\-vps__
+       - [Pasted image 20230726105143.png](TERMUX/termux-vps/Pasted%20image%2020230726105143.png)
+       - [Pasted image 20230726105205.png](TERMUX/termux-vps/Pasted%20image%2020230726105205.png)
+       - [Pasted image 20230726105222.png](TERMUX/termux-vps/Pasted%20image%2020230726105222.png)
+       - [Pasted image 20230726105250.png](TERMUX/termux-vps/Pasted%20image%2020230726105250.png)
+       - [Pasted image 20230726105304.png](TERMUX/termux-vps/Pasted%20image%2020230726105304.png)
+       - [Pasted image 20230726105605.png](TERMUX/termux-vps/Pasted%20image%2020230726105605.png)
+       - [Pasted image 20230726105625.png](TERMUX/termux-vps/Pasted%20image%2020230726105625.png)
+       - [Pasted image 20230726105655.png](TERMUX/termux-vps/Pasted%20image%2020230726105655.png)
+       - [termux\-vps.md](TERMUX/termux-vps/termux-vps.md)
+     - [termux\_ssh\_server.md](TERMUX/termux_ssh_server.md)
+     - [termux\_via\_usb.md](TERMUX/termux_via_usb.md)
+   - __awesome__
+     - [art\-of\-commandline.md](awesome/art-of-commandline.md)
+     - [awesome\-IPFS.md](awesome/awesome-IPFS.md)
+     - __awesome\-cli__
+       - [CONTRIBUTING.md](awesome/awesome-cli/CONTRIBUTING.md)
+       - [LICENSE.md](awesome/awesome-cli/LICENSE.md)
+       - [README.md](awesome/awesome-cli/README.md)
+     - __awesome\-cli\-apps__
+       - [check\-for\-deprecation.sh](awesome/awesome-cli-apps/check-for-deprecation.sh)
+       - [contributing.md](awesome/awesome-cli-apps/contributing.md)
+       - __media__
+         - [banner.png](awesome/awesome-cli-apps/media/banner.png)
+         - [logo.png](awesome/awesome-cli-apps/media/logo.png)
+         - [logo.psd](awesome/awesome-cli-apps/media/logo.psd)
+       - [readme.md](awesome/awesome-cli-apps/readme.md)
+     - __awesome\-selfhosted__
+       - [AUTHORS.md](awesome/awesome-selfhosted/AUTHORS.md)
+       - [LICENSE](awesome/awesome-selfhosted/LICENSE)
+       - [Makefile](awesome/awesome-selfhosted/Makefile)
+       - [README.md](awesome/awesome-selfhosted/README.md)
+       - [non\-free.md](awesome/awesome-selfhosted/non-free.md)
+       - __tests__
+         - [Dangerfile](awesome/awesome-selfhosted/tests/Dangerfile)
+         - [check\-github\-commit\-dates.py](awesome/awesome-selfhosted/tests/check-github-commit-dates.py)
+         - [test.js](awesome/awesome-selfhosted/tests/test.js)
+     - __awesome\-shell__
+       - [CONTRIBUTING.md](awesome/awesome-shell/CONTRIBUTING.md)
+       - [LICENSE](awesome/awesome-shell/LICENSE)
+       - [README.md](awesome/awesome-shell/README.md)
+       - [README\_ZH\-CN.md](awesome/awesome-shell/README_ZH-CN.md)
+     - [awesome\-tmux.md](awesome/awesome-tmux.md)
+     - __awesome\-tuis__
+       - [README.md](awesome/awesome-tuis/README.md)
+     - __awesome\-zsh\-plugins__
+       - [CODE\_OF\_CONDUCT.md](awesome/awesome-zsh-plugins/CODE_OF_CONDUCT.md)
+       - [Contributing.md](awesome/awesome-zsh-plugins/Contributing.md)
+       - [LICENSE](awesome/awesome-zsh-plugins/LICENSE)
+       - [README.md](awesome/awesome-zsh-plugins/README.md)
+       - [Writing\_Plugins.md](awesome/awesome-zsh-plugins/Writing_Plugins.md)
+       - __zsh\-plugin\-assessor__
+         - [git\-process\-output.zsh](awesome/awesome-zsh-plugins/zsh-plugin-assessor/git-process-output.zsh)
+         - [zpa.config](awesome/awesome-zsh-plugins/zsh-plugin-assessor/zpa.config)
+         - [zsh\-plugin\-assessor](awesome/awesome-zsh-plugins/zsh-plugin-assessor/zsh-plugin-assessor)
+     - __command\-line\-tools__
+       - [contributing.md](awesome/command-line-tools/contributing.md)
+       - [readme.md](awesome/command-line-tools/readme.md)
+     - __fucking\-awesome\-cli\-apps__
+       - [README.md](awesome/fucking-awesome-cli-apps/README.md)
+       - [check\-for\-deprecation.sh](awesome/fucking-awesome-cli-apps/check-for-deprecation.sh)
+       - [contributing.md](awesome/fucking-awesome-cli-apps/contributing.md)
+       - __media__
+         - [banner.png](awesome/fucking-awesome-cli-apps/media/banner.png)
+       - [readme.md](awesome/fucking-awesome-cli-apps/readme.md)
+     - __terminals\-are\-sexy__
+       - [Makefile](awesome/terminals-are-sexy/Makefile)
+       - [code\-of\-conduct.md](awesome/terminals-are-sexy/code-of-conduct.md)
+       - [contributing.md](awesome/terminals-are-sexy/contributing.md)
+       - __custom\_theme__
+         - __img__
+           - [favicon.ico](awesome/terminals-are-sexy/custom_theme/img/favicon.ico)
+       - __docs__
+         - [CNAME](awesome/terminals-are-sexy/docs/CNAME)
+         - [index.css](awesome/terminals-are-sexy/docs/index.css)
+       - [license](awesome/terminals-are-sexy/license)
+       - [mkdocs.yml](awesome/terminals-are-sexy/mkdocs.yml)
+       - [readme.md](awesome/terminals-are-sexy/readme.md)
+       - [terminals\_are\_sexy.sh](awesome/terminals-are-sexy/terminals_are_sexy.sh)
+     - [tmux Tutorial — Split Terminal Windows Easily \- Lukasz Wrobel.html.md](awesome/tmux%20Tutorial%20%E2%80%94%20Split%20Terminal%20Windows%20Easily%20-%20Lukasz%20Wrobel.html.md)
+     - [tmux\-powerline\-ubuntu.md](awesome/tmux-powerline-ubuntu.md)
+   - [bat.md](bat.md)
+   - [cava.md](cava.md)
+   - [clipboard.md](clipboard.md)
+   - [config.json](config.json)
+   - [crawley.md](crawley.md)
+   - [crontroll.md](crontroll.md)
+   - __deepweb\_tor__
+     - [How to anonymize the programs from your terminal with torify.md](deepweb_tor/How%20to%20anonymize%20the%20programs%20from%20your%20terminal%20with%20torify.md)
+     - [onion\_address\_dump.md](deepweb_tor/onion_address_dump.md)
+     - [real\_world\_onion\_urls.md](deepweb_tor/real_world_onion_urls.md)
+     - [tor\-privoxy\-alpine.md](deepweb_tor/tor-privoxy-alpine.md)
+   - __dwarfs__
+     - [dwarfs\-format.md](dwarfs/dwarfs-format.md)
+     - [dwarfs.md](dwarfs/dwarfs.md)
+     - [dwarfsck.md](dwarfs/dwarfsck.md)
+     - [dwarfsextract.md](dwarfs/dwarfsextract.md)
+     - [mkdwarfs\-sequence.puml](dwarfs/mkdwarfs-sequence.puml)
+     - [mkdwarfs\-sequence.svg](dwarfs/mkdwarfs-sequence.svg)
+     - [mkdwarfs.md](dwarfs/mkdwarfs.md)
+     - [readme.md](dwarfs/readme.md)
+     - [screenshot.gif](dwarfs/screenshot.gif)
+     - [screenshot.png](dwarfs/screenshot.png)
+     - [windows.gif](dwarfs/windows.gif)
+   - [faker.md](faker.md)
+   - [fx.md](fx.md)
+   - [gomphotherium.md](gomphotherium.md)
+   - [gord.md](gord.md)
+   - [gpg\-generate\-keys.md](gpg-generate-keys.md)
+   - [grimd.md](grimd.md)
+   - [gum.md](gum.md)
+   - [imdl.md](imdl.md)
+   - [index.md](index.md)
+   - [ipfs.md](ipfs.md)
+   - [lrzip.md](lrzip.md)
+   - [lynx.md](lynx.md)
+   - [markdown\-cheat\-sheet.md](markdown-cheat-sheet.md)
+   - [mdwiki.html](mdwiki.html)
+   - [mercator.md](mercator.md)
+   - [micro.md](micro.md)
+   - [monolith.md](monolith.md)
+   - [mpv \- ArchWiki.html.md](mpv%20-%20ArchWiki.html.md)
+   - [nap.md](nap.md)
+   - [navigation.md](navigation.md)
+   - [nc\-netcat.md](nc-netcat.md)
+   - [neomutt.md](neomutt.md)
+   - [nmap.md](nmap.md)
+   - [ok.md](ok.md)
+   - [ollama.md](ollama.md)
+   - [ollama\_quickstart.md](ollama_quickstart.md)
+   - [pass.md](pass.md)
+   - [pop.md](pop.md)
+   - [pzpaq.md](pzpaq.md)
+   - [reader.md](reader.md)
+   - __regex__
+     - [grep\-regex.html.md](regex/grep-regex.html.md)
+     - [regex\-cheat\-sheet.html.md](regex/regex-cheat-sheet.html.md)
+     - [regex\_15\_examples.html.md](regex/regex_15_examples.html.md)
+     - [regex\_crypto\_addresses.html.md](regex/regex_crypto_addresses.html.md)
+     - [terminals\_are\_sexy.html.md](regex/terminals_are_sexy.html.md)
+   - [screenshot.png](screenshot.png)
+   - [sed\-oneliners.md](sed-oneliners.md)
+   - [setup\_pirate\_proxy.md](setup_pirate_proxy.md)
+   - [shell\-gpt.md](shell-gpt.md)
+   - [shroom.png](shroom.png)
+   - [socat.md](socat.md)
+   - [sssnake.md](sssnake.md)
+   - [stig.md](stig.md)
+   - [tget.md](tget.md)
+   - __the\-book\-of\-secret\-knowledge__
+     - [LICENSE.md](the-book-of-secret-knowledge/LICENSE.md)
+     - [README.md](the-book-of-secret-knowledge/README.md)
+     - __static__
+       - __img__
+         - [the\-book\-of\-secret\-knowledge\-preview.png](the-book-of-secret-knowledge/static/img/the-book-of-secret-knowledge-preview.png)
+   - [timg.md](timg.md)
+   - [tmux\-cheatsheet.md](tmux-cheatsheet.md)
+   - [updo.md](updo.md)
+   - [wireproxy.md](wireproxy.md)
+   - __wuzz__
+     - [README.md](wuzz/README.md)
+     - [sample\-config.toml](wuzz/sample-config.toml)
+     - [screencast.gif](wuzz/screencast.gif)
+   - [xbsapi.md](xbsapi.md)
+   - [ya.md](ya.md)
+   - [yggdrasil.md](yggdrasil.md)
+   - [zpaq.md](zpaq.md)
+   - __zram\_swap__
+     - [ZRAM as swap Ubuntu 22.md](zram_swap/ZRAM%20as%20swap%20Ubuntu%2022.md)
+     - [adding\_fstab\_entry.png](zram_swap/adding_fstab_entry.png)
+     - [grub.png](zram_swap/grub.png)
+     - [swap\-works.png](zram_swap/swap-works.png)
+     - [udev\_rules\-1.png](zram_swap/udev_rules-1.png)
+
